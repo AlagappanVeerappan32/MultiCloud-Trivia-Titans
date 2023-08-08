@@ -30,6 +30,7 @@ NOTIFICATION AND ALERTS MULTI CLOUD
 ---
 
 AUTOMATED TAGGING 
+
 ![image](https://github.com/AlagappanVeerappan32/MultiCloud-Trivia-Titans/assets/133504573/d65a5255-1f91-4b9f-aa6e-3e011a08f961)
 
 
