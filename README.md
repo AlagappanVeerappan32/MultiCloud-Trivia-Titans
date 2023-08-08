@@ -18,6 +18,21 @@ Welcome to the Trivia Titans Multi-Cloud repository. This professional project i
 - **Personalized Experience:** Tailor game preferences to receive questions suited to individual interests and skill levels.
 - **Administrator Insights:** Utilize analytics tools to monitor performance, user engagement, and make data-driven improvements.
 
+![MicrosoftTeams-image (6)](https://github.com/AlagappanVeerappan32/MultiCloud-Trivia-Titans/assets/133504573/456cba93-33af-41fb-a2bc-7e62153d90b1)
+
+---
+
+NOTIFICATION AND ALERTS MULTI CLOUD
+
+<img width="1252" alt="Screenshot 2023-08-08 at 8 04 52 PM" src="https://github.com/AlagappanVeerappan32/MultiCloud-Trivia-Titans/assets/133504573/9b6d6267-a8c0-4405-a2c5-236888034ee3">
+
+
+---
+
+AUTOMATED TAGGING 
+![image](https://github.com/AlagappanVeerappan32/MultiCloud-Trivia-Titans/assets/133504573/d65a5255-1f91-4b9f-aa6e-3e011a08f961)
+
+
 ### Hypothetical Scenario
 
 John, Sarah, and their friends embark on a trivia journey by joining forces and creating "The Quizzards" team. They dive into the game lobby, excited to participate in an upcoming science and technology trivia challenge. As they play, discuss, and strategize, their teamwork shines through, helping them secure a commendable second-place finish.
